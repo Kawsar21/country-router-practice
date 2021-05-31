@@ -1,0 +1,13 @@
+.Country-details {
+    background-color: #f9f9f9;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 5px grey;
+    padding: 5px;
+}
+.Country-details:hover {
+    box-shadow: 0 0 15px gray;
+}
